@@ -1,5 +1,5 @@
 # szpc-projeto-the-last-of-us
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jefelipe/TelaJavaScript/blob/main/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jefelipe/szpc-projeto-the-last-of-us/blob/main/LICENSE) 
 
 # Sobre o projeto
 
